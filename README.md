@@ -18,7 +18,7 @@
 </h3>
 <p align="left" style='margin: 16px 4px 8px;'>
     <a href="https://twitter.com/ritik_sharma454" target="blank" rel="noreferrer">
-        <img align="center" src="https://i.ibb.co/1XNxbqN/logo-white.png" alt="https://twitter.com/ritik_sharma454" height="30" width="30" style="background: #000000; border-radius: 5px; border: 1px solid #000000
+        <img align="center" src="https://i.ibb.co/1XNxbqN/logo-white.png" alt="https://twitter.com/ritik_sharma454" height="23" width="23" style="background: #000000; border-radius: 5px; border: 1px solid #000000
 ; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="mailto:ritiksharma0405@gmail.com" target="blank" rel="noreferrer">
