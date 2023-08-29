@@ -18,23 +18,23 @@
 ## 🌐 Let's Connect and have a Chat!💬 :
 </h3>
 <p align="left" style='margin: 16px 4px 8px;'>
-    <a href="https://twitter.com/kartikk_26" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/kartikk_26" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://twitter.com/ritik_sharma454" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/ritik_sharma454" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="mailto:kartikjain2626@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:kartikjain2626@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="mailto:ritiksharma0405@gmail.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:ritiksharma0405@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://www.linkedin.com/in/kartik-jain-473ab81b2/" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/kartik-jain-473ab81b2/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://www.linkedin.com/in/ritiksharma-code/" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/ritiksharma-code/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://instagram.com/kartik__j26?igshid=YmMyMTA2M2Y=" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/kartik__j26?igshid=YmMyMTA2M2Y=" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://www.instagram.com/ritik_sharma454/" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/ritik_sharma454/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-  <a href="https://github.com/Kartikk-26" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="https://github.com/Kartikk-26" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+  <a href="https://github.com/ritiksharma-code" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="https://github.com/ritiksharma-code" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-  <a href="https://www.codechef.com/users/kartikjain26" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" alt="https://www.codechef.com/users/kartikjain26" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+  <a href="https://www.codechef.com/users/ritik_sharma45" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" alt="https://www.codechef.com/users/ritik_sharma45" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
 
 #
@@ -67,15 +67,15 @@
 
  <h1>Github Stats ⚡:</h1>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Kartikk-26&theme=swift&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26&layout=compact&theme=swift&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ritiksharma-code&theme=swift&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksharma-code&layout=compact&theme=swift&count_private=true&hide_border=true)</a>
 <p align="center">
   
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikk-26&theme=swift&hide_border=true"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksharma-code&theme=swift&hide_border=true"/>
 </p>
 
 
-<a href="https://github.com/Manas-tech/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Kartikk-26&bg_color=000000&color=F8D666&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Manas-tech/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ritiksharma-code&bg_color=000000&color=F8D666&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
