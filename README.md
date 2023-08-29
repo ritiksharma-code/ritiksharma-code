@@ -18,7 +18,7 @@
 </h3>
 <p align="left" style='margin: 16px 4px 8px;'>
     <a href="https://twitter.com/ritik_sharma454" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/ritik_sharma454" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="logos/twitter/twitter-official.svg" alt="https://twitter.com/ritik_sharma454" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="mailto:ritiksharma0405@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:ritiksharma0405@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
@@ -34,6 +34,9 @@
     </a>
   <a href="https://www.codechef.com/users/ritik_sharma45" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" alt="https://www.codechef.com/users/ritik_sharma45" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/ritik_sharma454" target="blank" rel="noreferrer">
+        <img align="center" src="https://scontent.fjai1-3.fna.fbcdn.net/v/t39.30808-6/327356230_589491973018292_1512460515022345777_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hP-BJEtVok8AX_NzLDv&_nc_ht=scontent.fjai1-3.fna&oh=00_AfA8KXsZKdjPtp4pSQKdnVYmqjCizFV8r-BMkHLPnzICGg&oe=64F27C1E" alt="https://auth.geeksforgeeks.org/user/ritik_sharma454" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
 
 #
