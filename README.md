@@ -18,7 +18,8 @@
 </h3>
 <p align="left" style='margin: 16px 4px 8px;'>
     <a href="https://twitter.com/ritik_sharma454" target="blank" rel="noreferrer">
-        <img align="center" src="logos/twitter/twitter-official.svg" alt="https://twitter.com/ritik_sharma454" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://user-images.githubusercontent.com/8138585/255580473-e9e13421-89cf-445b-b2e2-e50e0864789f.svg" alt="https://twitter.com/ritik_sharma454" height="30" width="30" style="background: #ffffff
+; border-radius: 5px; border: 1px solid #ffffff; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="mailto:ritiksharma0405@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:ritiksharma0405@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
