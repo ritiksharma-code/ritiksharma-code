@@ -11,7 +11,7 @@
 <img align="right"  height="271" width="400" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5cW84eXEwdXd6MTBlbXlhcjR2bnNsZXk1cmg5YTgyZ2xoZDI1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"/>
 
 # 💫 About Me:
-🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Front End 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.<br>👯 I’m looking to collaborate on projects related to C,C++,Python<br>🤝 I’m looking for help with Web developement<br>🌱 I’m currently learning Java <br>💬 Ask me about logic building and learning <br>⚡ Fun fact "'𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜"
+🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 on my programming skills.<br>👯 I’m looking to collaborate on projects related to C, Python<br>🤝 I'm Interested in DBMS.<br>🌱 I’m currently learning C++ <br>💬 Ask me about logic building and learning <br>⚡ Fun fact "'𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜"
 
 
 ## 🌐 Let's Connect and have a Chat!💬 :
