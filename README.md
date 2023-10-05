@@ -70,11 +70,11 @@
 
  <h1>Github Stats ⚡:</h1>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ritiksharma-code&theme=swift&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksharma-code&layout=compact&theme=swift&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ritiksharma-code&theme=highcontrast&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksharma-code&layout=compact&theme=highcontrast&count_private=true&hide_border=true)</a>
 <p align="center">
   
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksharma-code&theme=swift&hide_border=true"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksharma-code&theme=highcontrast&hide_border=true"/>
 </p>
 
 
