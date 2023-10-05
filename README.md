@@ -17,27 +17,27 @@
 ## 🌐 Let's Connect and have a Chat!💬 :
 </h3>
 <p align="left" style='margin: 16px 4px 8px;'>
-    <a href="https://twitter.com/ritik_sharma454" target="blank" rel="noreferrer">
+    <a href="https://twitter.com/ritik_sharma454" target="_blank" rel="noreferrer">
         <img align="center" src="https://i.ibb.co/1XNxbqN/logo-white.png" alt="https://twitter.com/ritik_sharma454" height="23" width="23" style="background: #000000; border-radius: 5px; border: 1px solid #000000
 ; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="mailto:ritiksharma0405@gmail.com" target="blank" rel="noreferrer">
+    <a href="mailto:ritiksharma0405@gmail.com" target="_blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:ritiksharma0405@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://www.linkedin.com/in/ritiksharma-code/" target="blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/ritiksharma-code/" target="_blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/ritiksharma-code/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://www.instagram.com/ritik_sharma454/" target="blank" rel="noreferrer">
+    <a href="https://www.instagram.com/ritik_sharma454/" target="_blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/ritik_sharma454/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-  <a href="https://github.com/ritiksharma-code" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="https://github.com/ritiksharma-code" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+  <a href="https://github.com/ritiksharma-code" target="_blank" rel="noreferrer">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/600px-Github_logo_svg.svg.png?20230420150203" alt="https://github.com/ritiksharma-code" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-  <a href="https://www.codechef.com/users/ritik_sharma45" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" alt="https://www.codechef.com/users/ritik_sharma45" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+  <a href="https://www.codechef.com/users/ritik_sharma45" target="_blank" rel="noreferrer">
+        <img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="https://www.codechef.com/users/ritik_sharma45" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/ritik_sharma454" target="blank" rel="noreferrer">
-        <img align="center" src="https://scontent.fjai1-3.fna.fbcdn.net/v/t39.30808-6/327356230_589491973018292_1512460515022345777_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hP-BJEtVok8AX_NzLDv&_nc_ht=scontent.fjai1-3.fna&oh=00_AfA8KXsZKdjPtp4pSQKdnVYmqjCizFV8r-BMkHLPnzICGg&oe=64F27C1E" alt="https://auth.geeksforgeeks.org/user/ritik_sharma454" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://auth.geeksforgeeks.org/user/ritik_sharma454" target="_blank" rel="noreferrer">
+        <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20201213110552/logo.png" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
 
 #
@@ -62,7 +62,7 @@
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/600px-Github_logo_svg.svg.png?20230420150203"></code>
 
 <br/>
 
@@ -73,7 +73,9 @@
   <!--<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ritiksharma-code&theme=highcontrast&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksharma-code&layout=compact&theme=highcontrast&count_private=true&hide_border=true)</a>-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritiksharma-code&theme=highcontrast&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"/>   &nbsp;&nbsp;   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksharma-code&layout=compact&theme=highcontrast&count_private=true&hide_border=true" alt="Top Languages"/></p>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksharma-code&theme=highcontrast&hide_border=true" alt="GitHub Streak"/></p>
+
 <p align = "center"><a href="https://github.com/ritiksharma-code/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ritiksharma-code&bg_color=000000&color=F8D666&line=F85D7F&point=FFFFFF&hide_border=true" /></a></p>
 
 
