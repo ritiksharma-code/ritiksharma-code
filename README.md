@@ -1,5 +1,6 @@
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg">
+<!--<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg">-->
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" max-width: 100%;>
  
   𝐇ello,&lt;Coder's/&gt;!
 
@@ -72,9 +73,9 @@
   
   <!--<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ritiksharma-code&theme=highcontrast&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksharma-code&layout=compact&theme=highcontrast&count_private=true&hide_border=true)</a>-->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ritiksharma-code&theme=highcontrast&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"/>   &nbsp;&nbsp;   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksharma-code&layout=compact&theme=highcontrast&count_private=true&hide_border=true" alt="Top Languages"/></p>
+<p align="center"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ritiksharma-code&theme=highcontrast&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"/>   &nbsp;&nbsp;   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksharma-code&layout=compact&theme=highcontrast&count_private=true&hide_border=true" alt="Top Languages"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksharma-code&theme=highcontrast&hide_border=true" alt="GitHub Streak"/></p>
+<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksharma-code&theme=highcontrast&hide_border=true" alt="GitHub Streak"/></p>
 
 <p align = "center"><a href="https://github.com/ritiksharma-code/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ritiksharma-code&bg_color=000000&color=F8D666&line=F85D7F&point=FFFFFF&hide_border=true" /></a></p>
 
