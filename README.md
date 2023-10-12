@@ -75,7 +75,8 @@
   <!--<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ritiksharma-code&theme=highcontrast&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksharma-code&layout=compact&theme=highcontrast&count_private=true&hide_border=true)</a>-->
 <p align="center"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ritiksharma-code&theme=highcontrast&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats"/>   &nbsp;&nbsp;   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksharma-code&layout=compact&theme=highcontrast&count_private=true&hide_border=true" alt="Top Languages"/></p>
-<p align="center"><img align="center" height="180em" src="https://streak-stats.demolab.com/?user=ritiksharma-code&theme=highcontrast&hide_border=true"alt="GitHub Streak"/></p>
+<!--<p align="center"><img align="center" height="180em" src="https://streak-stats.demolab.com/?user=ritiksharma-code&theme=highcontrast&hide_border=true"alt="GitHub Streak"/></p>-->
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ritiksharma-code&theme=holi-theme&hide_border=true" alt="GitHub Streak" /></a><p>
 <p align = "center"><a href="https://github.com/ritiksharma-code/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ritiksharma-code&bg_color=000000&color=FFFF00&line=f78800&point=FFFFFF&hide_border=true" /></a></p>
 
 
