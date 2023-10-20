@@ -34,7 +34,7 @@
   <a href="https://github.com/ritiksharma-code" target="_blank" rel="noreferrer">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/600px-Github_logo_svg.svg.png?20230420150203" alt="https://github.com/ritiksharma-code" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-  <a href="https://www.codechef.com/users/ritik_sharma45" target="_blank" rel="noreferrer">
+  <a href="https://www.codechef.com/users/ritiksharma454" target="_blank" rel="noreferrer">
         <img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="https://www.codechef.com/users/ritik_sharma45" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://auth.geeksforgeeks.org/user/ritik_sharma454" target="_blank" rel="noreferrer">
